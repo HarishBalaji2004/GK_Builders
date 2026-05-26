@@ -20,7 +20,6 @@ export default function Navbar() {
     const handleScroll = () => {
       setScrolled(window.scrollY > 40)
 
-      // Active section detection
       const sections = navLinks.map(l => l.href.replace('#', ''))
       for (const id of sections.reverse()) {
         const el = document.getElementById(id)

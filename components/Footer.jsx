@@ -178,12 +178,7 @@ export default function Footer() {
             <div className="flex items-center gap-4">
               <span className="text-slate-600 text-xs" style={{ fontFamily: 'Space Mono, monospace', fontSize: '0.6rem' }}>
                 Madurai · Tamil Nadu · India
-              </span>
-              <div className="w-1 h-1 bg-amber-500/40 rounded-full" />
-              <span className="text-slate-600 text-xs" style={{ fontFamily: 'Space Mono, monospace', fontSize: '0.6rem' }}>
-                Designed with ❤️ for Excellence
-              </span>
-            </div>
+              </span> 
           </div>
 
           {/* Infovex credit */}

@@ -56,7 +56,7 @@ export default function Navbar() {
             <div className="relative w-10 h-10 flex items-center justify-center">
               <div className="absolute inset-0 bg-amber-500 rounded-sm rotate-3 group-hover:rotate-6 transition-transform duration-300" />
               <span className="relative font-bold text-[#040d1a] text-sm tracking-tight z-10" style={{ fontFamily: 'Barlow Condensed, sans-serif', fontWeight: 800 }}>
-                LK
+                GK
               </span>
             </div>
             <div className="flex flex-col leading-none">

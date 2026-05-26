@@ -48,7 +48,7 @@ export default function Footer() {
                 <div className="relative w-10 h-10 flex items-center justify-center">
                   <div className="absolute inset-0 bg-amber-500 rounded-sm rotate-3" />
                   <span className="relative font-bold text-[#040d1a] text-sm z-10" style={{ fontFamily: 'Barlow Condensed, sans-serif', fontWeight: 800 }}>
-                    LK
+                    GK
                   </span>
                 </div>
                 <div>
